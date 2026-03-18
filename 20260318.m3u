@@ -1,0 +1,180 @@
+#EXTM3U
+
+#SKY SPORT MAIN EVENT 4K =1284558
+#TNT 4K =1284551
+#TNT Ultimate 4K =804331
+
+#Now1 =  987845 
+#Now2 = 827939  
+#Now3 = 827938  
+#Now4 = 827937 
+#Now5 = 827936  
+#Now6 = 827935  
+#Now7 = 827934  
+
+#HUB1 =  987845
+#HUB2 = 827981
+#HUB2UHD =  987845
+#HUB3 = 827979
+#HUB4 = 827978
+#HUB5 = 827977
+#HUB6 = 827976
+
+#bein1  = 987845
+#bein2  = 987844
+#bein3  = 987843
+
+
+
+
+
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 8
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:D2:1E:4C&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 9
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:EE:52:4D&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 20
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:C0:54:35&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 21
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:B4:AD:B6&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 22
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:22:B6:63&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 23
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:70:65:E9&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 24
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:80:9F:1B&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 26
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:81:2D:BB&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 27
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:F5:00:50&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 28
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:56:52:72&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 29
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:3C:39:F4&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 32
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:E8:7E:EE&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 33
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:62:39:3A&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 35
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:B4:F0:78&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 36
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:63:AC:9D&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 37
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:A7:50:75&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 38
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:BF:6E:D0&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 39
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:D1:6E:69&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 41
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:F5:80:FC&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 43
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:A6:E8:AD&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 44
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:B6:C7:9C&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 45
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:75:2A:C1&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 46
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:80:93:4D&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 47
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:76:2B:02&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1 48
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:BF:74:03&stream= 987845&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 49
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:C5:F7:72&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 50
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:CC:17:99&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 54
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:30:33:66&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 55
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:A1:DB:BF&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 57
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:45:DB:7E&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 58
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:7F:37:E0&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 59
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:7E:E4:4B&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 60
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:29:6F:B3&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 61
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:B6:C7:B2&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 63
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:B6:C7:9E&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 64
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:B6:C7:97&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 65
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:C5:F7:72&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 66
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:23:87:26&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 68
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:B6:C4:A9&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 70
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:45:DB:7E&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 71
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:6A:46:CC&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 74
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:E8:C8:3E&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 76
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:F5:03:3F&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 79
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:7E:E4:4B&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 80
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:5A:79:B8&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 81
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:00:20:34&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 82
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:2C:51:8C&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 84
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:C5:F7:72&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 86
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:B6:C7:B2&stream=987843&extension=ts
+
+#EXTINF:-1  group-title="bein3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3 87
+http://103.176.90.182:80/play/live.php?mac=00:1A:79:B5:86:A8&stream=987843&extension=ts=ts
